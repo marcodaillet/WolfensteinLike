@@ -11,3 +11,4 @@ https://user-images.githubusercontent.com/55747965/147461226-e5ba03a4-5db8-4213-
 
 How to use : ./cub3d map.cub
 
+The .cub file if the configuration where the cub3d program takes its arguments. Any change to this file will eventually change the graphical rendering.
