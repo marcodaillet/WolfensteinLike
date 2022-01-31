@@ -50,6 +50,7 @@ all:		$(NAME)
 
 $(NAME):	$(OBJS)
 			make -C libft
+			chmod 777 minilibx/configure
 			make -C minilibx
 			$(CC) $(CFLAGS) $(OBJS) $(LIBS) -o $(NAME)
 			@echo "Compilation done !"
