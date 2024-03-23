@@ -20,4 +20,6 @@ Cub3D is an exciting project where I get to create a 3D graphical representation
      ```
 
 Now, immerse yourself in this interactive graphical adventure and explore the maze you've created with Cub3D!
+
 https://user-images.githubusercontent.com/55747965/147461226-e5ba03a4-5db8-4213-a5b5-47332ca9cf83.mp4
+
